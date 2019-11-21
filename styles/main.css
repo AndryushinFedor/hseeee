@@ -215,6 +215,60 @@ footer p {
     min-width: 661px;
   }
 
+  .footer__feedback h3 {
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 24px;
+  }
+
+  .advantages ul li {
+    font-size: 36px;
+    line-height: 48px;
+    margin: 32px 24px 0 24px;
+    padding-bottom: 88px;
+  }
+
+  .history p {
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 48px;
+    padding: 32px 24px 0 24px;
+  }
+
+  .history h2 {
+    padding: 128px 24px 80px 24px;
+    font-weight: 800;
+    font-size: 80px;
+    line-height: 96px;
+  }
+
+  .shop h2 {
+    font-weight: 800;
+    font-size: 80px;
+    line-height: 96px;
+    padding-bottom: 88px;
+  }
+
+  .shop__items {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 0 24px;
+  }
+
+  .shop__item h3 {
+    font-size: 20px;
+  }
+
+  .shop__item p {
+    font-size: 16px;
+  }
+
+  .shop__item {
+    flex: 0 1 348px;
+    margin: 0 0 24px 0;
+  }
+
 
 
 /* EOF */
